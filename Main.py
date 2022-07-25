@@ -9,7 +9,7 @@ class Stack:
             print("")
 
     def is_full(self):
-        if len(stack)<queries
+        if len(stack)<queries:
             print("")
 
     def push(self, data):
